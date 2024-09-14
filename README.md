@@ -57,9 +57,6 @@
   <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40" style="transform: scale(1.2); transition: all 0.3s ease-in-out;" /> 
   </a> 
-  <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40" style="transform: scale(1.2); transition: all 0.3s ease-in-out;" /> 
-  </a> 
 </p>
 
 <!-- Adding some space before showing stats -->
