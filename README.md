@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Diwakar</h1>
-<h3 align="center">A passionate and dedicated programmer, committed to leveraging my daily coding practice to innovate and solve real-world challenges</h3>
+<h3 align="center">Ever since I started coding, it’s been my way of tackling real-world problems. Every project, no matter how small, is a chance to learn and improve. I’m driven by the challenge of finding solutions and the satisfaction of seeing ideas come to life through code. It’s this hands-on approach that keeps me motivated to keep growing and make a meaningful impact.</h3>
 
 - 📫 How to reach me: **drai5@students.kennesaw.edu**
 
