@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Diwakar</h1>
-<h3 align="center">I'm a passionate problem-solver who sees every line of code as a chance to make something better. Whether it's a small bug fix or a larger project, coding for me is about learning, improving, and creating solutions that make a difference. I love the challenge of turning ideas into reality through code, and it's what keeps me motivated to keep growing and evolving.</h3>
+<h3 align="center">Ever since I started coding, it’s been my way of tackling real-world problems. Every project, no matter how small, is a chance to learn and improve. I’m driven by the challenge of finding solutions and the satisfaction of seeing ideas come to life through code. It’s this hands-on approach that keeps me motivated to keep growing and make a meaningful impact.</h3>
 
 - 📫 How to reach me: **drai5@students.kennesaw.edu**
 
