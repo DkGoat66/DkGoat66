@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Diwakar</h1>
-<h3 align="center">Ever since I started coding, it’s been my way of tackling real-world problems. Every project, no matter how small, is a chance to learn and improve. I’m driven by the challenge of finding solutions and the satisfaction of seeing ideas come to life through code. It’s this hands-on approach that keeps me motivated to keep growing and make a meaningful impact.</h3>
+<h3 align="center">Ever since I started coding, it has been my way of solving real-world problems. Each project, no matter how small, presents an opportunity to learn, refine my skills, and push my limits. I thrive on the challenge of problem-solving and the satisfaction of transforming ideas into functional solutions through code. This hands-on approach keeps me motivated to grow continuously and make a meaningful impact. Recently, I graduated from Kennesaw State University with a Bachelor's degree in Software Engineering, and I am eager to apply my knowledge and passion to create innovative and impactful software solutions.
+</h3>
 
 - 📫 How to reach me: **drai5@students.kennesaw.edu**
 
