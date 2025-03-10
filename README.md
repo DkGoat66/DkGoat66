@@ -31,7 +31,7 @@
     <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40" style="transform: scale(1.2); transition: all 0.3s ease;" /> 
   </a>
   <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="Flask" width="40" height="40" style="transform: scale(1.2); transition: all 0.3s ease;" /> 
+    <img src="https://flask.palletsprojects.com/en/3.0.x/" alt="Flask" width="40" height="40" style="transform: scale(1.2); transition: all 0.3s ease;" /> 
   </a>
   <a href="https://flutter.dev" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40" height="40" style="transform: scale(1.2); transition: all 0.3s ease;" /> 
